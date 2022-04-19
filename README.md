@@ -3,15 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/r3b3l-dev/repo_name">
-    <img src="https://via.placeholder.com/168x41.png?text=logo" alt="Logo">
-  </a>
+<a href="https://github.com/r3b3l-dev/repo_name">
+	<img src="https://via.placeholder.com/168x41.png?text=logo" alt="Logo">
+</a>
 
-  <p align="center">
-    Description of the project goes here.
-    <br />
-    <a href="https://r3b3l-dev.github.io/">View Live Project Here</a>
-  </p>
+<p align="center">
+	Description of the project goes here.
+	<br />
+	<a href="https://r3b3l-dev.github.io/">View Live Project Here</a>
+</p>
 </div>
 
 <h2 align="center"><img src="https://via.placeholder.com/800x600.png?text=screenshot"></h2>
@@ -19,15 +19,15 @@
 <br>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#user-experience-(ux)">User Experience (UX)<a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#technologies-used">Technologies Used</a></li>
-    <li><a href="#testing">Testing</a></li>
-    <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#credits">Credits</a></li>
-  </ol>
+<summary>Table of Contents</summary>
+<ol>
+	<li><a href="#user-experience-(ux)">User Experience (UX)<a></li>
+	<li><a href="#features">Features</a></li>
+	<li><a href="#technologies-used">Technologies Used</a></li>
+	<li><a href="#testing">Testing</a></li>
+	<li><a href="#deployment">Deployment</a></li>
+	<li><a href="#credits">Credits</a></li>
+</ol>
 </details>
 <br>
 
@@ -44,9 +44,8 @@
 
 -   ### Design
     -   #### Colour Scheme
-        -   The colour sheme uses the following pallette
         <br>
-        ![Alt text](https://via.placeholder.com/1140x171.png?text=colour-palette-placeholder)
+![Colour Scheme](https://via.placeholder.com/1140x171.png?text=colour-palette-placeholder)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -72,11 +71,11 @@
 ### Frameworks, Libraries & Programs Used
 
 1. [Tailwind v3.0.24:](https://tailwindcss.com/docs/installation)
-    - Tailwind was used to assist with the responsiveness and styling of the website.
+	- Tailwind was used to assist with the responsiveness and styling of the website.
 1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+	- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+	- GitHub is used to store the projects code after being pushed from Git.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,7 +108,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+	- Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
