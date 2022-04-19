@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-	A Gym website project to help with learning Tailwind and Animate on Scroll.
+	Using a Tailwind CSS Starter Kit by Creative Tim  and modifying it into a gym website. A project to  learn about Tailwind CSS utility classes and implementing the AOS (Animation on Scroll) library for animation.
 	<br />
 	<a href="https://r3b3l-dev.github.io/the-power-room/">View Live Project Here</a>
 </p>
@@ -67,12 +67,14 @@
 
 1. [Tailwind v3.0.24:](https://tailwindcss.com/docs/installation)
 	- Tailwind was used to assist with the responsiveness and styling of the website.
-1. [Git](https://git-scm.com/)
+1. [Git:](https://git-scm.com/)
 	- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
 	- GitHub is used to store the projects code after being pushed from Git.
-1. [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+1. [Animate On Scroll Library:](https://michalsnik.github.io/aos/)
 	- AOS detects the position of elements and then adds appropriate classes when they appear in viewport to animate them.
+1. [Font Awesome:](https://fontawesome.com/)
+	- Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,19 +83,19 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[W3C HTML Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fr3b3l-dev.github.io%2Fmanage%2F)
+[W3C HTML Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fr3b3l-dev.github.io%2Fthe-power-room%2F)
 
-![HTML Validation](https://via.placeholder.com/1827x501.png?text=w3c-validator)
+![HTML Validation](assets/img/validator.w3.png)
 
 
 ### Further Testing
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/) analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 
-![Lighthouse Test Results](https://via.placeholder.com/1827x501.png?text=lighthouse)
+![Lighthouse Test Results](assets/img/lighthouse.png)
 
 [GTmetrix](https://gtmetrix.com/) was developed by Carbon60 as a tool for customers to easily test the performance of their webpages.
-![GTmetrix](https://via.placeholder.com/1827x501.png?text=gtmetrix)
+![GTmetrix](assets/img/gtmetrix.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -151,21 +153,21 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--  The project is based on  [Insert Link Here]()
+-  The project follows Build a Gym Website Using The Tailwind Starter Kit from Traversy Media  [Traversy Media Tutorial](https://www.youtube.com/watch?v=mO3aXUgjnIE)
 
--  The code for this tutorial came from [Insert Link Here]()
+-  The code for this tutorial came from [Traversy Media CodePen](https://codepen.io/bradtraversy/pen/zYqVgXO)
 
--   [Tailwind Css](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Tailwind Library used throughout the project.
+-  The starter kit is free and open source from Creative Tim [Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation): Tailwind Library used throughout the project.
 
 
 ### Content
 
--   All content was from [Insert Link Here]()
+-   All content was from [Traversy Media Tutorial](https://www.youtube.com/watch?v=mO3aXUgjnIE)
 
 
 ### Media
 
--   All media was from [Insert Link Here]()
+-   All Media and Pictures are from Unsplash.com. Unsplash photos are made to be used freely. Their license reflects that.   [Unsplash](https://unsplash.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
