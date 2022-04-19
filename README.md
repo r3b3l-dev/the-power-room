@@ -75,6 +75,8 @@
 	- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
 	- GitHub is used to store the projects code after being pushed from Git.
+1. [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+	- AOS detects the position of elements and then adds appropriate classes when they appear in viewport to animate them.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
