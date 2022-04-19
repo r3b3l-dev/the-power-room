@@ -44,7 +44,6 @@
 
 -   ### Design
     -   #### Colour Scheme
-        <br>
 ![Colour Scheme](https://via.placeholder.com/1140x171.png?text=colour-palette-placeholder)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
