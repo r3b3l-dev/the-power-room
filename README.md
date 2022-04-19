@@ -4,17 +4,17 @@
 <br />
 <div align="center">
 <a href="https://github.com/r3b3l-dev/repo_name">
-	<img src="https://via.placeholder.com/168x41.png?text=logo" alt="Logo">
+	<img src="assets/img/logo.png" alt="Logo">
 </a>
 
 <p align="center">
-	Description of the project goes here.
+	A Gym website project to help with learning Tailwind and Animate on Scroll.
 	<br />
-	<a href="https://r3b3l-dev.github.io/">View Live Project Here</a>
+	<a href="https://r3b3l-dev.github.io/the-power-room/">View Live Project Here</a>
 </p>
 </div>
 
-<h2 align="center"><img src="https://via.placeholder.com/800x600.png?text=screenshot"></h2>
+<h2 align="center"><img src="assets/img/screenshot.png"></h2>
 
 <br>
 <!-- TABLE OF CONTENTS -->
@@ -40,11 +40,7 @@
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
-
--   ### Design
-    -   #### Colour Scheme
-![Colour Scheme](https://via.placeholder.com/1140x171.png?text=colour-palette-placeholder)
+        3. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -54,7 +50,7 @@
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Interactive elements that animate on scroll
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +81,7 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C HTML Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fr3b3l-dev.github.io%2Fmanage%2F)
+[W3C HTML Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fr3b3l-dev.github.io%2Fmanage%2F)
 
 ![HTML Validation](https://via.placeholder.com/1827x501.png?text=w3c-validator)
 
